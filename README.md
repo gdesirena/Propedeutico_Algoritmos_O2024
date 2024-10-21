@@ -1,6 +1,6 @@
 # Propedeutico de implementación de algoritmos para la Maestría en Ciencia de Datos Otoño 2024
 
-# ¡HOLA A TODOS! ¿Cómo están?
+# ¡HOLA A TODOS! 
 
 En este repositorio se encontrarás las notas para el curso propedéutico de programación para la Maestría en Ciencia de Datos en el año 2024. Material adicional será proporcionado durante clases.
 
